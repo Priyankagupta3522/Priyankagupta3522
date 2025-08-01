@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="coding" width="800" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif>
+<img align="center" alt="coding" width="800" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankagupta3522&label=Profile%20views&color=0e75b6&style=flat" alt="priyankagupta3522" /> </p>
 
