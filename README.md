@@ -15,7 +15,7 @@
 - Email: **101priyag@gmail.com**
 - LinkedIn: [Priyanka Gupta](https://www.linkedin.com/in/priyanka-gupta-0100a0251)
 - Instagram: [@priya_gupta4025](https://instagram.com/priya_gupta4025)
-- YouTube: [Priyuu Gupta](https://www.youtube.com/@priyuu_gupta)
+- YouTube: [Priyuu Gupta](https://www.youtube.com/@Priyuu_gupta)
 
 ---
 
