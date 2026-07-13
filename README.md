@@ -50,8 +50,8 @@
 ---
 
 ### 🎯 About Me
-- 🌟 Skilled in **Power BI, SQL, WordPress, and Data Visualization**  
+- 🌟 Skilled in **Power BI, SQL,MySql, WordPress, and Data Visualization**  
 - 📊 Love building dashboards that turn raw data into insights  
 - 🎓 B.Tech in Computer Science (2022 Batch)  
-- 🎯 Career Goal: Data Analyst roles + Government IT positions (NIC, DRDO, Metro Rail IT)  
+- 🎯 Career Goal: Data Analyst roles   
 - ✨ Motto: *“Data tells stories — I bring those stories to life.”*
