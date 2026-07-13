@@ -2,8 +2,7 @@
 <h3 align="center">🚀 Data Analyst | Power BI Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <!-- Professional banner image suggestion -->
-  <img alt="Data Analytics Banner" width="800" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/data-analytics-banner.png">
+  <img alt="coding" width="800" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 </p>
 
 <p align="center">
@@ -16,7 +15,7 @@
 - Email: **101priyag@gmail.com**
 - LinkedIn: [Priyanka Gupta](https://www.linkedin.com/in/priyanka-gupta-0100a0251)
 - Instagram: [@priya_gupta4025](https://instagram.com/priya_gupta4025)
-- YouTube: [Priyuu Gupta](https://www.youtube.com/@Priyuu_gupta)
+- YouTube: [Priyuu Gupta](https://www.youtube.com/@priyuugupta)
 
 ---
 
@@ -50,4 +49,24 @@
 
 ---
 
-### 🎯
+### 🎯 About Me
+- 🌟 Skilled in **Power BI, PostgreSQL, Postman, MySQL, WordPress, and Data Visualization**  
+- 📊 Hands‑on experience in **PostgreSQL** (datatype conversions, update queries, constraints)  
+- 🔎 Practical knowledge of **Postman** (API testing, request/response validation, CRUD operations)  
+- 🎓 B.Tech in Computer Science (2022 Batch)  
+- 🎯 Career Goal: Data Analyst roles + Government IT positions (NIC, DRDO, Metro Rail IT)  
+- ✨ Motto: *“Data tells stories — I bring those stories to life.”*
+
+---
+
+### 🚀 Featured Projects
+- **RideVision Analytics Dashboard** → Power BI dashboard analyzing trips, payments, driver performance, and location insights.  
+- **Sales Performance Dashboard** → KPIs, profit trends, category‑wise analysis.  
+- **WordPress Portfolio Website** → Responsive website built with Elementor & Pagelayer.  
+- **PostgreSQL Practice** → SQL queries, datatype conversions, update operations.  
+- **API Testing with Postman** → Tested REST APIs for authentication and CRUD operations.  
+
+---
+
+### 🌟 Fun Fact
+I love blending **data + design** — dashboards and websites that not only work but also look beautiful.
